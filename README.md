@@ -1,2 +1,2 @@
 # Kubeadm-Cluster-Setup
-We will set up a kubeadm cluster with one master and two worker nodes
+Set up kubeadm cluster v29.0 with one master and two worker nodes in Ubuntu 24.04(LTS)
